@@ -1,5 +1,13 @@
-# Visual-Programming-Tasks-C#-.net-
+# Visual-Programming-Tasks-C-Sharp-Asp.net-
 This repository contains Visual Programming tasks including Windows Forms and ASP.NET Web Forms CRUD, DBCon usage, Three-Tier Architecture, Stored Procedures, LINQ to List CRUD, ASP.NET Core MVC with EF Code-First, RESTful APIs using Repository Pattern, API consumption with LINQ to JSON, and Authentication &amp; Authorization (Connection-less,Oriented)
+
+**Note:**
+This project ZIP file was split into multiple parts because of GitHub’s file size limit.
+Requirements: 1.Bash or Any Terminal that support cat command.
+Step1: Download the spit parts. Make sure the file name are same. Example: project_part_aa,project_part_ab.
+step2: Run this command : cat project_part_* > project.zip
+step3: Extract the Project. Command :unzip project.zip
+
 
 **Project Details:**
 **1.Simple Windows Forms CRUD Application**
