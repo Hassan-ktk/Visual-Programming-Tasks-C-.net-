@@ -2,6 +2,7 @@
 This repository contains Visual Programming tasks including Windows Forms and ASP.NET Web Forms CRUD, DBCon usage, Three-Tier Architecture, Stored Procedures, LINQ to List CRUD, ASP.NET Core MVC with EF Code-First, RESTful APIs using Repository Pattern, API consumption with LINQ to JSON, and Authentication &amp; Authorization (Connection-less,Oriented)
 
 **Note:**
+
 This project ZIP file was split into multiple parts because of GitHub’s file size limit.
 Requirements: 1.Bash or Any Terminal that support cat command.
 Step1: Download the spit parts. Make sure the file name are same. Example: project_part_aa,project_part_ab.
