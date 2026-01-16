@@ -4,9 +4,13 @@ This repository contains Visual Programming tasks including Windows Forms and AS
 **Note:**
 
 This project ZIP file was split into multiple parts because of GitHub’s file size limit.
+
 Requirements: 1.Bash or Any Terminal that support cat command.
+
 Step1: Download the spit parts. Make sure the file name are same. Example: project_part_aa,project_part_ab.
+
 step2: Run this command : cat project_part_* > project.zip
+
 step3: Extract the Project. Command :unzip project.zip
 
 
